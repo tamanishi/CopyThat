@@ -2,6 +2,6 @@
 <overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <script type="application/x-javascript" src="chrome://copythat/content/overlay.js" />
   <popup id="contentAreaContextMenu">
-    <menuitem id="copythat-menu" label="CopyThat" oncommand="CopyThat.init();" />
+    <menuitem id="copythat-menu" label="CopyThat" accesskey="C" oncommand="CopyThat.init();" />
   </popup>
 </overlay>

@@ -1,2 +1,2 @@
-content copythat content/
+content copythat jar:chrome/copythat.jar!/content/
 overlay chrome://browser/content/browser.xul chrome://copythat/content/overlay.xul
