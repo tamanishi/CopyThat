@@ -1,0 +1,2 @@
+content copythat content/
+overlay chrome://browser/content/browser.xul chrome://copythat/content/overlay.xul
